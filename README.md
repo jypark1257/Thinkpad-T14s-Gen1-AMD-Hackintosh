@@ -42,6 +42,10 @@
 
 - **Airdrop**: Not functioning due to Intel cards not being native, works only on Broadcom cards.
 - **Screen Mirroring**: Not available unless using a paid service such as airserver.
+- **Sleep**
+- **Webcam**
+- **Microphone**
+- *...and maybe more!*
 
 </details>
 
