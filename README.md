@@ -1,8 +1,6 @@
 # ThinkPad T14s Gen 1 AMD Hackintosh
 
-![Sonoma Screenshot](https://raw.githubusercontent.com/jypark1257/Thinkpad-T14s-Gen1-AMD-Hackintosh/screenshots/t14s-amd-sonoma.png)
-
-> **A comprehensive guide to using a ThinkPad for macOS**
+![Sonoma Screenshot](./screenshots/t14s-amd-sonoma.png)
 
 ## 📝 Specifications
 
